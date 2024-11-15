@@ -1,0 +1,22 @@
+{
+    "carros": [
+        {
+            "id": "1",
+            "Marca": "Ferrari",
+            "Detalhes": "F8",
+            "Foto": "https:\/\/www.motor24.pt\/files\/2019\/03\/1681733_Ferrari_F8_Tributo_4-800x533_c.jpg"
+        },
+        {
+            "id": "4",
+            "Marca": "Bugatti",
+            "Detalhes": "voiture noir",
+            "Foto": "https:\/\/cdn.motor1.com\/images\/mgl\/VzMq0z\/s1\/bugatti-chiron-1500.jpg"
+        },
+        {
+            "id": "2",
+            "Marca": "toyota",
+            "Detalhes": "supra",
+            "Foto": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRW1tiesoifNjssVrMYhjJ-rI7wjfOXWbL7-A"
+        }
+    ]
+}
